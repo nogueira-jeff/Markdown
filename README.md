@@ -25,7 +25,7 @@ linha horizontal !Três traços
 *** 
 linha horizontal !Três asteriscos também funciona
 
-##Lista numerada
+## Lista numerada
 
 1. teste !1. + palavra 
 1. teste 2 !A partir do segundo pode ser '2., 3., etc' ou continuar com 1."
@@ -35,7 +35,7 @@ linha horizontal !Três asteriscos também funciona
 1. teste 5
 
 
-##Lista demarcada
+## Lista demarcada
 
 * teste !1 asterisco antes gera lista sem números
 * teste
@@ -46,7 +46,7 @@ linha horizontal !Três asteriscos também funciona
 
 
 
-##Lista de tarefas: !Traço + 1 espaço + [] com espaço dentro  
+## Lista de tarefas: !Traço + 1 espaço + [] com espaço dentro  
 
 - [x] Criar a página principal
 - [x] Criar a página da loja
@@ -55,7 +55,7 @@ linha horizontal !Três asteriscos também funciona
 
 !Para marcar com x, só tirar o espaço de dentro dos colchetes e colocar o x.
 
-##Tabela: !nomeColuna + espaço + pipe + espaço + nomeColuna ..., abaixo três traços + pipe + três traços + pipe..., abaixo itens da tabela seguindo mesmo padrão do cabeçalho
+## Tabela: !nomeColuna + espaço + pipe + espaço + nomeColuna ..., abaixo três traços + pipe + três traços + pipe..., abaixo itens da tabela seguindo mesmo padrão do cabeçalho
 
 
 Num | Nome | Nota
@@ -65,13 +65,13 @@ Num | Nome | Nota
 3 | Maria | 7,5
 
 
-##Exemplo de como identificar que tal parte é um comando:
+## Exemplo de como identificar que tal parte é um comando:
 
 Não sei para que serve o comando `document.getElementById()` na linguagem JavaScript. 
 !Colocar o comando entre crases
 
 
-##Trecho de programa:
+## Trecho de programa:
 
 ``` 
 

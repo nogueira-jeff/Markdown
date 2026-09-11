@@ -4,6 +4,7 @@ Testing markdown
 
 
 **olá** - negrito !Dois asteriscos antes e dois depois 
+
 __olá__ - negrito !Dois underlines antes e dois depois
 
 *olá* - italico !Um asterisco antes e um depois

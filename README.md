@@ -52,6 +52,7 @@ linha horizontal !Três asteriscos também funciona
 - [x] Criar a página da loja
 - [ ] Finalizar a reunião com o cliente
 - [ ] Receber pagamento
+
 !Para marcar com x, só tirar o espaço de dentro dos colchetes e colocar o x.
 
 ##Tabela: !nomeColuna + espaço + pipe + espaço + nomeColuna ..., abaixo três traços + pipe + três traços + pipe..., abaixo itens da tabela seguindo mesmo padrão do cabeçalho

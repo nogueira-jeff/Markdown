@@ -68,6 +68,7 @@ Num | Nome | Nota
 ## Exemplo de como identificar que tal parte é um comando:
 
 Não sei para que serve o comando `document.getElementById()` na linguagem JavaScript. 
+
 !Colocar o comando entre crases
 
 

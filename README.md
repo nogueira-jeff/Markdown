@@ -8,6 +8,7 @@ Testing markdown
 __olá__ - negrito !Dois underlines antes e dois depois
 
 *olá* - italico !Um asterisco antes e um depois
+
 _olá_ - itálico !Um underline antes e um depois
 
 _*olá*_ - negrito e italico !Um underline e um asterisco + palavra + um asterisco e um underline
